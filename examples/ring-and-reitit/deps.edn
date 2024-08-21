@@ -1,0 +1,17 @@
+{:paths ["src" "resources"]
+ :deps {ro.ieugen/pac4clj {:local/root "../.."}
+
+        com.amperity/dialog {:mvn/version "2.0.115"}
+        hiccup/hiccup {:mvn/version "2.0.0-RC3"}
+        metosin/jsonista {:mvn/version "0.3.10"}
+        metosin/muuntaja {:mvn/version "0.6.10"}
+        metosin/muuntaja-form {:mvn/version "0.6.10"}
+        metosin/reitit {:mvn/version "0.7.1"}
+        metosin/reitit-ring {:mvn/version "0.7.1"}
+        mount/mount {:mvn/version "0.1.19"}
+        org.pac4j/pac4j-http {:mvn/version "6.0.6"}
+        org.pac4j/pac4j-oidc {:mvn/version "6.0.6"}
+        org.pac4j/pac4j-sql {:mvn/version "6.0.6"}
+        ring/ring-jetty-adapter {:mvn/version "1.12.2"}
+        
+        }}

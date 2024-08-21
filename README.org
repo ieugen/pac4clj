@@ -1,0 +1,10 @@
+* pac4clj -  pac4j for clojure ring
+
+*pac4clj* is a Clojure library that integrates pac4j java library to Ring applications.
+
+You can provide authentication and authorization to your Ring apps.
+
+We don't plan to "hide" the Java nature of pac4j behind a clojure interface.
+Just make it easy to implement auth in your app.
+
+
